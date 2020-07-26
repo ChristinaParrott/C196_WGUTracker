@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryBlue">#003057</color>
+    <color name="colorSecondaryBlue">#4986A0</color>
+    <color name="colorAccentRed">#862633</color>
+    <color name="colorAccentGold">#F6BE00</color>
+    <color name="colorDarkGray">#63666A</color>
+    <color name="colorLightGray">#D9D9D6</color>
+    <color name="list_text">#333</color>
+</resources>

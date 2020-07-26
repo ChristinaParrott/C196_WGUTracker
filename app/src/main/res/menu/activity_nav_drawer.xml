@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_course"
+            android:title="@string/courses" />
+        <item
+            android:id="@+id/nav_terms"
+            android:icon="@drawable/ic_term"
+            android:title="@string/terms" />
+        <item
+            android:id="@+id/nav_assessments"
+            android:icon="@drawable/ic_assessment"
+            android:title="@string/assessments" />
+        <item
+            android:id="@+id/nav_mentors"
+            android:icon="@drawable/nav_mentors"
+            android:title="@string/mentors" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/nav_notes"
+            android:title="@string/notes" />
+    </group>
+
+
+</menu>

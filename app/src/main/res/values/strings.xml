@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">WGU Tracker</string>
+    <string name="add_sample_data">Add Sample Data</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="courses">Courses</string>
+    <string name="terms">Terms</string>
+    <string name="assessments">Assessments</string>
+    <string name="wgu_logo">WGU logo</string>
+    <string name="wgu_student_planner">WGU Student Planner</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="wgu_url">wgu.edu</string>
+    <string name="add_course">Add Course</string>
+    <string name="add_term">Add Term</string>
+    <string name="add_assessment">Add Assessment</string>
+    <string name="toolbar">toolbar</string>
+    <string name="course_fragment">Course Fragment</string>
+    <string name="term_fragment">Term fragment</string>
+    <string name="assessment_fragment">Assessment Fragment</string>
+    <string name="title_activity_term_view">TermViewActivity</string>
+    <string name="title_activity_course_view">CourseViewActivity</string>
+    <string name="title_activity_assessment_view">AssessmentViewActivity</string>
+    <string name="delete_all">Delete All Data</string>
+    <string name="title_activity_term_editor">TermEditorActivity</string>
+    <string name="assess_edit_label">AssessEditorActivity</string>
+    <string name="course_edit_label">CourseEditorActivity</string>
+    <string name="new_assess">New Assessment</string>
+    <string name="edit_assess">Edit Assessment</string>
+    <string name="new_course">New Course</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="new_term">New Term</string>
+    <string name="edit_term">Edit Term</string>
+    <string name="delete">Delete</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="mentors">Mentors</string>
+    <string name="notes">Notes</string>
+    <string name="MentorViewActivity">MentorViewActivity</string>
+    <string name="edit_mentor">Edit Mentor</string>
+    <string name="MentorEditorActivity">MentorEditorActivity</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="view_assessment">View Assessment</string>
+    <string name="view_note">View Note</string>
+    <string name="courses_in_this_term">Courses in this Term:</string>
+    <string name="mentor_detail_activity">MentorDetailActivity</string>
+    <string name="term_detail_activity">TermDetailActivity</string>
+    <string name="assessment_detail">AssessDetailActivity</string>
+    <string name="note_view_activity">NoteViewActivity</string>
+    <string name="note_edit_activity">NoteEditorActivity</string>
+    <string name="note_detail_activity">NoteDetailActivity</string>
+    <string name="view_term">View Term</string>
+    <string name="course_detail_activity">CourseDetailActivity</string>
+    <string name="view_course">View Course</string>
+    <string name="wgu_tracker">WGU Tracker</string>
+    <string name="alerts">Alerts</string>
+    <string name="calendar_view_activity">CalendarViewActivity</string>
+    <string name="set_notification">Set Notification</string>
+</resources>
